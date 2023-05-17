@@ -1,0 +1,3 @@
+interface QUACKABLE{
+    void quack();
+}
